@@ -1,0 +1,3 @@
+[submodule "WinFormTemplate/XIV-WinFormUtils"]
+	path = WinFormTemplate/XIV-WinFormUtils
+	url = https://github.com/alimertcetin/XIV-WinFormUtils.git
