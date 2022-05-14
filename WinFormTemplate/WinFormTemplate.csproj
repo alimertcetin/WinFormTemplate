@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="XIV-WinFormUtils\XIV-WinformUtils\Program.cs" />
+  </ItemGroup>
+
 </Project>
